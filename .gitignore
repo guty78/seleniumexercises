@@ -1,0 +1,32 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Compiled class files
+/target/
+*.class
+
+# Maven
+*.jar
+*.war
+*.ear
+
+# Gradle
+.gradle/
+build/
+
+# IDE-specific
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# ChromeDriver
+/src/test/resources/chromedriver/
